@@ -1,0 +1,22 @@
+{
+  "name": "24-node-ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elMestreAcademy/24-node-ajax.git"
+  },
+  "author": "Carlos Mestre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elMestreAcademy/24-node-ajax/issues"
+  },
+  "homepage": "https://github.com/elMestreAcademy/24-node-ajax#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
